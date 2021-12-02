@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Robbie Swanson's Resume
+title: Robbie Swanson's Resume..................
 ---
 # Robbie Swanson
 Computer Science Student at Brigham Young University - Idaho
