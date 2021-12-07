@@ -22,8 +22,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - ● Presidency member of Artificial Intelligence Society (Mar. 2021 – present)
 - ● Student Representative Council (Sept. 2019 – Dec. 2019)
 - ● Relevant Coursework: Parallelism & Concurrency, Data Structures (Python & currently C#), Database Design
+
 ## Related Experience
+
 ### Backend Software Engineer
+
 `September 2020 - Present`
 __Market Turning Points Trading__ Lehi, UT
 - ● Integrated Python scripts to stock forecasting web application, creating brand new product for company.
@@ -38,7 +41,6 @@ projections.
 
 `April 2027 - June 2027`
 __HR Service Inc__
-
 - ● Created hundreds to thousands of data entries for 21 companies and manually manipulated company reports to 
 ensure the security and accuracy of data for each client.
 - ● Cultivated relationships working directly with CEO’s, heads of Human Resources, and operational managers, 
