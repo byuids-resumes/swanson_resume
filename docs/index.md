@@ -22,12 +22,10 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - ● Presidency member of Artificial Intelligence Society (Mar. 2021 – present)
 - ● Student Representative Council (Sept. 2019 – Dec. 2019)
 - ● Relevant Coursework: Parallelism & Concurrency, Data Structures (Python & currently C#), Database Design
-
 ## Related Experience
-
 ### Backend Software Engineer
-`January 2028 - June 2028`
-__Market Turning Points Trading__, Lehi, UT
+`September 2020 - Present`
+__Market Turning Points Trading__ Lehi, UT
 - ● Integrated Python scripts to stock forecasting web application, creating brand new product for company.
 - ● Transformed thousands of data points from member retention and survey feedback into simplistic onboarding 
 retention charts using Python Matplotlib and Pandas packages.
@@ -36,15 +34,16 @@ pages as well as building brand new membership courses with defined feature sets
 - ● Implemented API fed web application using proprietary algorithms that created hundreds of stock market 
 projections.
 
-### Data Science Lead
+### ACA Reporting Specialist
 
 `April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+__HR Service Inc__
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
+- ● Created hundreds to thousands of data entries for 21 companies and manually manipulated company reports to 
+ensure the security and accuracy of data for each client.
+- ● Cultivated relationships working directly with CEO’s, heads of Human Resources, and operational managers, 
+maintaining efficiency in meeting all time sensitive sprint deadlines.
+- ● Represented over 20 companies, handling all Affordable Care Act reports for each business
 `September 2027 - April 2028`
 __Good2Go__, Consultant
 
