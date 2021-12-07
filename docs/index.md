@@ -2,16 +2,15 @@
 layout: cv
 title: Robbie Swanson's Resume..................
 ---
-<h1 align="center">Robbie Swanson</h1>
-<h3 align="center">Computer Science Student at Brigham Young University - Idaho</h3>
+# Robbie Swanson
+Computer Science Student at Brigham Young University - Idaho
 
-<h3 align="center">
+
 <div id="webaddress">
 <a href="datascience@byui.edu">larocarobbie@gmail.com</a>
 | <a href="https://www.linkedin.com/in/robbie-swanson-17661a194/">LinkedIn</a>
 | <a href="https://github.com/robbieswan/swanson_resume">GitHub</a>
 </div>
-</h3>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
