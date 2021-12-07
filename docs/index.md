@@ -16,27 +16,25 @@ Computer Science Student at Brigham Young University - Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- ● Accumulative GPA: 4.0
+- ● Presidency member of Artificial Intelligence Society (Mar. 2021 – present)
+- ● Student Representative Council (Sept. 2019 – Dec. 2019)
+- ● Relevant Coursework: Parallelism & Concurrency, Data Structures (Python & currently C#), Database Design
 
 ## Related Experience
 
-### Internships
-
+### Backend Software Engineer
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+__Market Turning Points Trading__, Lehi, UT
+- ● Integrated Python scripts to stock forecasting web application, creating brand new product for company.
+- ● Transformed thousands of data points from member retention and survey feedback into simplistic onboarding 
+retention charts using Python Matplotlib and Pandas packages.
+- ● Pivoted the onboarding experience of 300 monthly members to include updated UX/UI designs for membership 
+pages as well as building brand new membership courses with defined feature sets working with Project Manager.
+- ● Implemented API fed web application using proprietary algorithms that created hundreds of stock market 
+projections.
 
 ### Data Science Lead
 
