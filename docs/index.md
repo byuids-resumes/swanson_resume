@@ -39,50 +39,50 @@ projections.
 
 ### ACA Reporting Specialist
 
-`April 2027 - June 2027`
+`Jan. 2020 – Mar. 2020`
 __HR Service Inc__
 - ● Created hundreds to thousands of data entries for 21 companies and manually manipulated company reports to 
 ensure the security and accuracy of data for each client.
 - ● Cultivated relationships working directly with CEO’s, heads of Human Resources, and operational managers, 
 maintaining efficiency in meeting all time sensitive sprint deadlines.
 - ● Represented over 20 companies, handling all Affordable Care Act reports for each business
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+## Projects
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+__Using: OOP, Python, SQL, NEAT algorithms, AI, SCRUM__
+- ● Executed comprehensive tutorials with interactive assignments for all major data structures (i.e., stacks, queues, 
+linked lists, and binary search trees).
+- ● Used NEAT algorithm to create neural network AI that beats the game, Flappy Bird.
+- ● Led team of 4 engineers using SCRUM methodology in agile framework to create an AI snake game over a 4-
+month period, leading team meetings and organizing 2-week sprints.
+- ● Built relational Database model analyzing a complex 5 table Family History database.
 
 
-## Service and Work History
+## Activities & Awards
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Volunteer Service
 
+`2017 - 2019`
+__The Church of Jesus Christ of Latter-Day Saints__  Macon, Georgia
+- ● Appointed as Assistant to the President, overseeing all 145 volunteers training as well as orchestrating mission
+data reporting for over 7 and a half months.
+- ● Maintained rigorous volunteer schedule, working 15 hours daily for 2 years.
+- ● Designed and headed relocation effort for over 130 individuals displaced by Hurricane Ida.
+- ● Developed public speaking and team management skills, leading and training teams to expand our influence in 
+new geographical areas
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Awards & Accomplishments
 
+- ● Eagle Scout Award – Boy Scouts of America.
+- ● COO of national club, Technology Students Association (TSA) at Lone Peak High School.
+- ● Selected as a Hugh O’Brian Youth Leader.
+- ● Awarded by American Legion Veterans Association as chapters Boys State Representative.
+- ● Volunteer Leader at People Helping People Utah – Led over 40 people in project supporting single mothers.
+- ● Special Olympics volunteer
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2021 -->
 
 
